@@ -62,21 +62,8 @@ RBank is a feature-rich banking management system that simulates real-world bank
 
 ## 📂 Project Structure
 
-text
-RBank/
-│
-├── README.md
-├── rbank.py
-│
-└── screenshots/
-    ├── welcome.png
-    ├── customer_login.png
-    ├── employee_login.png
-    ├── manager_login.png
-    ├── customer_menu.png
-    ├── employee_menu.png
-    ├── manager_menu.png
-    └── calculator_menu.png
+### Project Structure
+![Project Structure](screenshots/Project_structure.png)
 
 
 ---
