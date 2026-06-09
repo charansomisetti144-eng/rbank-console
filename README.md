@@ -1,16 +1,7 @@
-<p align="center">
-  <img src="screenshots/banner.png" width="100%">
-</p>
-
-<h1 align="center">🏦 RBank</h1>
 
 <p align="center">
   <b>Console-Based Banking Management System in Python</b>
 </p>
-
-# 🏦 RBank
-
-Console-Based Banking Management System developed using Python.
 
 ---
 
