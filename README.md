@@ -1,4 +1,3 @@
-
 <p align="center">
   <b>Console-Based Banking Management System in Python</b>
 </p>
@@ -70,7 +69,6 @@ RBank/
 ├── rbank.py
 │
 └── screenshots/
-    ├── banner.png
     ├── welcome.png
     ├── customer_login.png
     ├── employee_login.png
