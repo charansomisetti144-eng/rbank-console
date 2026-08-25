@@ -516,7 +516,7 @@ We sincerely thank every team member for their dedication, collaboration, and va
 
 | Contributor | Primary Contribution |
 |--------------|----------------------|
-| Cherry | Project Integration, Repository Management & Documentation |
+| Charan | Project Integration, Repository Management & Documentation |
 | Pradeep | Customer Module |
 | Ganesh | Customer Module |
 | Deeven | Customer Module |
