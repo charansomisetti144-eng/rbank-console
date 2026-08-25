@@ -518,7 +518,7 @@ We sincerely thank every team member for their dedication, collaboration, and va
 
 Python Developer | Full Stack Learner | Student
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/charansomisetti144-eng
 
 ---
 
