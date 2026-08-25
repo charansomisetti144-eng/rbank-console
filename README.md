@@ -512,15 +512,28 @@ We sincerely thank every team member for their dedication, collaboration, and va
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 Contributors
 
-**Cherry**
-
-Python Developer | Full Stack Learner | Student
-
-GitHub: https://github.com/charansomisetti144-eng
+| Contributor | Primary Contribution |
+|--------------|----------------------|
+| Cherry | Project Integration, Repository Management & Documentation |
+| Pradeep | Customer Module |
+| Ganesh | Customer Module |
+| Deeven | Customer Module |
+| Basha | Manager Module |
+| Maheen | Manager Module |
+| Charan Teja | Employee Module |
+| Gangamohan | Employee Module |
+| Chaitanya | Employee Module |
+| Charan | Tools, Calculators & UI Formatting |
+| Manikanta | Tools, Calculators & UI Formatting |
+| Sanjay | Tools, Calculators & UI Formatting |
 
 ---
+
+**Project Repository Maintained by:** **SOMISETTI NAGA VEERA SRI CHARAN**
+
+GitHub: https://github.com/charansomisetti144-eng
 
 # ⭐ Support
 
